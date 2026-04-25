@@ -1,8 +1,8 @@
-# AI-Research-WritingAssist
+# AI-Research-WritingAssist（**尚未完成** ）
 Help graduates relieve paper stress   
 
 
-**尚未完成** 
+
 
 ---
 
@@ -18,7 +18,7 @@ Help graduates relieve paper stress
 ### Prompt提示词合集
 - [开题报告](#开题报告)
 - [论文](#论文)
-- [论文全盘大调查](#论文全盘大调查)
+- [论文大调查](#论文大调查)
 - [降AIGC](#降AIGC)
 - [插图生成](#插图生成)
 - [闲语](#闲语)
