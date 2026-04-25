@@ -1,5 +1,8 @@
 # AI-Research-WritingAssist
-Help graduates relieve paper stress   **尚未完成** 6%
+Help graduates relieve paper stress   
+
+
+**尚未完成** 
 
 ---
 
